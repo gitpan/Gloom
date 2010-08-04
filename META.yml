@@ -1,5 +1,5 @@
 ---
-abstract: 'Great Little OO Module'
+abstract: 'the Great Little OO Module'
 author:
   - 'Ingy döt Net <ingy@cpan.org>'
 build_requires:
@@ -18,7 +18,7 @@ no_index:
     - inc
     - t
 requires:
-  perl: 5.005003
+  perl: 5.8.3
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02
