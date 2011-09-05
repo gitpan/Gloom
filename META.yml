@@ -24,4 +24,4 @@ resources:
   homepage: http://github.com/ingydotnet/gloom-pm/tree
   license: http://dev.perl.org/licenses/
   repository: git://github.com/ingydotnet/gloom-pm.git
-version: 0.16
+version: 0.17
