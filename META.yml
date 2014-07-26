@@ -1,27 +1,27 @@
 ---
-abstract: ~
+abstract: 'Gloom (the Great Little OO Module)'
 author:
   - 'Ingy döt Net <ingy@cpan.org>'
-build_requires:
-  ExtUtils::MakeMaker: 6.42
+build_requires: {}
 configure_requires:
-  ExtUtils::MakeMaker: 6.42
-distribution_type: module
-generated_by: 'Module::Install version 1.01'
+  ExtUtils::MakeMaker: '6.30'
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.132830'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
-  version: 1.4
-module_name: Gloom
+  version: '1.4'
 name: Gloom
 no_index:
   directory:
     - inc
     - t
+    - xt
+    - example
 requires:
-  perl: 5.8.3
+  perl: v5.8.1
 resources:
-  homepage: http://github.com/ingydotnet/gloom-pm/tree
-  license: http://dev.perl.org/licenses/
-  repository: git://github.com/ingydotnet/gloom-pm.git
-version: 0.17
+  bugtracker: https://github.com/ingydotnet/gloom-pm/issues
+  homepage: https://github.com/ingydotnet/gloom-pm
+  repository: https://github.com/ingydotnet/gloom-pm.git
+version: '0.18'
