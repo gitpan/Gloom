@@ -10,6 +10,7 @@ README
 lib/Gloom.pm
 lib/Gloom.pod
 lib/Module/Install/Gloom.pm
+lib/Module/Install/Gloom.pod
 t/Foo.pm
 t/Foo/Bar.pm
 t/Makefile.PL

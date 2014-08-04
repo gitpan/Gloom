@@ -24,4 +24,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/gloom-pm/issues
   homepage: https://github.com/ingydotnet/gloom-pm
   repository: https://github.com/ingydotnet/gloom-pm.git
-version: '0.20'
+version: '0.21'
