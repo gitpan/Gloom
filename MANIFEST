@@ -11,6 +11,7 @@ lib/Gloom.pm
 lib/Gloom.pod
 lib/Module/Install/Gloom.pm
 lib/Module/Install/Gloom.pod
+t/000-compile-modules.t
 t/Foo.pm
 t/Foo/Bar.pm
 t/Makefile.PL
