@@ -1,3 +1,7 @@
+0.22 Fri Aug 15 15:51:59 PDT 2014
+ - Add t/000-compile-modules.t
+ - CPAN Day 2014 - 21 Release Salute!
+
 0.21 Sun Aug  3 22:55:10 PDT 2014
  - Remove (c) from Copyright
  - Finish doc to Swim
